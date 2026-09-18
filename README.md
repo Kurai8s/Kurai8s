@@ -1,31 +1,81 @@
 <h1 align="center">Hi 👋, I'm Ario Mixcel Putra Dewa</h1>
-<h3 align="center">A passionate IT Developer and Informatics Student from Indonesia exploring Cyber Security and AI</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IT+Developer+%26+Informatics+Student;Exploring+Cyber+Security+%26+AI;Building+Web+%26+Mobile+Apps" alt="Typing Animation" />
+</h3>
 
-- 🔭 I’m currently working on **web and mobile apps using React, JS, Laravel, and Flutter**
-
-- 🌱 I’m currently learning **Cyber Security, React, and Hybrid AI (YOLO & Gemini API)**
-
-- 👯 I’m looking to collaborate on **innovative open-source projects, IoT, and AI systems**
-
-- 🤝 I’m looking for help with **advanced Cyber Security concepts and secure coding practices**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kurai8s](https://github.com/Kurai8s)
-
-- 💬 Ask me about **React, JavaScript, Laravel, Flutter, and embedded systems**
-
-- 📫 How to reach me **dewaario24@gmail.com or mixcelputra@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/ario-mixcel-putra-dewa-001430399](www.linkedin.com/in/ario-mixcel-putra-dewa-001430399)
-
-- ⚡ Fun fact **I can spend hours fixing a bug, only to realize I missed a semicolon ; 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ario mixcel putra dewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ario mixcel putra dewa" height="30" width="40" /></a>
-<a href="https://instagram.com/ario.m.dewa.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ario.m.dewa.7" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kurai8s&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kurai8s?label=Followers&style=social" alt="Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurai8s&show_icons=true&locale=en&layout=compact" alt="kurai8s" /></p>
+### 🔭 Current Focus
+- 🚀 **Building:** Web & Mobile Apps using **React, JS, Laravel, and Flutter**
+- 🌱 **Learning:** **Cyber Security, React, and Hybrid AI (YOLO & Gemini API)**
+- 👯 **Collaborating on:** Innovative open-source projects, IoT, and AI systems
+- 🤝 **Seeking help with:** Advanced Cyber Security concepts and secure coding practices
+
+---
+
+### 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/Kurai8s/Vybrasi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kurai8s&repo=Vybrasi&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Vybrasi" />
+  </a>
+  <a href="https://github.com/Kurai8s/Vybrasi-Mobile">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kurai8s&repo=Vybrasi-Mobile&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Vybrasi-Mobile" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Kurai8s/BK-Mobile">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kurai8s&repo=BK-Mobile&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="BK-Mobile" />
+  </a>
+  <a href="https://github.com/Kurai8s/System-Cashier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kurai8s&repo=System-Cashier&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="System-Cashier" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,laravel,flutter,python,java,kotlin,php,html,css,git,docker,linux,mysql,postgresql,firebase,pytorch,tensorflow,pandas,arduino,figma&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurai8s&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurai8s&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurai8s&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kurai8s&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="mailto:dewaario24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/ario-mixcel-putra-dewa-001430399" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/ario.m.dewa.7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/Kurai8s" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>⚡ <b>Fun fact:</b> I can spend hours fixing a bug, only to realize I missed a semicolon <code>;</code> 😅</sub>
+</p>
