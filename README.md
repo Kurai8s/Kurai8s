@@ -14,7 +14,7 @@
 - 🚀 **Building:** Web & Mobile Apps using **React, JS, Laravel, and Flutter**
 - 🌱 **Learning:** **Cyber Security, React, and Hybrid AI (YOLO & Gemini API)**
 - 👯 **Collaborating on:** Innovative open-source projects, IoT, and AI systems
-- 🤝 **Seeking help with:** Advanced Cyber Security concepts and secure coding practices
+-  **Seeking help with:** Advanced Cyber Security concepts and secure coding practices
 
 ---
 
@@ -83,14 +83,40 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kurai8s&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kurai8s&theme=dark&hide_border=true&bg_color=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurai8s&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Kurai8s&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h2>📊</h2>
+      <h3>GitHub Stats</h3>
+      <p>Total Contributions</p>
+      <img src="https://img.shields.io/badge/Contributions-36-00F7FF?style=for-the-badge&logo=github" alt="Contributions"/>
+      <p><sub>Oct 28, 2024 - Present</sub></p>
+    </td>
+    <td align="center">
+      <h2>🔥</h2>
+      <h3>Current Streak</h3>
+      <p>Daily Contributions</p>
+      <img src="https://img.shields.io/badge/Streak-4_Days-FF6B00?style=for-the-badge&logo=github" alt="Streak"/>
+      <p><sub>Sep 15 - Sep 18</sub></p>
+    </td>
+    <td align="center">
+      <h2></h2>
+      <h3>Top Languages</h3>
+      <p>Most Used</p>
+      <img src="https://img.shields.io/badge/Dart-74.8%25-00F7FF?style=for-the-badge" alt="Dart"/>
+      <img src="https://img.shields.io/badge/Blade-46.2%25-00F7FF?style=for-the-badge" alt="Blade"/>
+      <img src="https://img.shields.io/badge/Kotlin-100%25-00F7FF?style=for-the-badge" alt="Kotlin"/>
+    </td>
+    <td align="center">
+      <h2>🏆</h2>
+      <h3>GitHub Trophies</h3>
+      <p>Achievements</p>
+      <img src="https://img.shields.io/badge/Trophies-Earned-FFD700?style=for-the-badge&logo=github" alt="Trophies"/>
+      <p><sub>Keep Contributing!</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
